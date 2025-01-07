@@ -1,0 +1,71 @@
+---
+title: "limpezaTratamentoR"
+output: html_notebook
+---
+
+```{r}
+setwd("C:/Users/patri/OneDrive/Documentos/udemyFormacaoCDD/9.Prática em R/dados/")
+```
+
+```{r}
+knitr::opts_chunk$set(root.dir = "C:/Users/patri/OneDrive/Documentos/udemyFormacaoCDD/9.Prática em R/dados/")
+```
+
+```{r}
+dados = read.csv("Churn.csv", sep=";", na.strings="", stringsAsFactors = T)
+head(dados)
+summary(dados)
+```
+
+```{r}
+#nome às colunas
+colnames(dados) = c("ID","SCORE","ESTADO","GENERO","IDADE","PATRIMONIO","SALDO","PRODUTOS","TEMCARTCREDITO","ATIVO","SALARIO","SAIU")
+head(dados)
+
+```
+
+```{r}
+#explorar os dados categóricos/GRÁFICO
+#estados
+counts = table(dados$ESTADO)
+barplot(counts, main="ESTADOS", xlab= "ESTADOS")
+#GENERO
+counts2 = table(dados$GENERO)
+barplot(counts2, main="GENERO", xlab= "GENERO")
+```
+
+```{r}
+#AGORA É EXPLORAR AS COLUNAS NUMÉRICAS
+summary(dados$SCORE)
+boxplot(dados$SCORE)
+hist(dados$SCORE)
+```
+
+```{r}
+#idade
+summary(dados$IDADE)
+boxplot(dados$IDADE)
+hist(dados$IDADE)
+```
+
+```{r}
+summary(dados$SALDO)
+boxplot(dados$SALDO)
+hist(dados$SALDO)
+```
+
+```{r}
+summary(dados$SALARIO)
+boxplot(dados$SALARIO)
+hist(dados$SALARIO)
+```
+
+```{r}
+#valores faltantes
+dados[!complete.cases(dados),]
+```
+
+```{r}
+#tratar salários
+summary (dados$SALARIO)
+```
