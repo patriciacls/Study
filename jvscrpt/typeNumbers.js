@@ -1,3 +1,4 @@
+//TESTANDO TIPO DE NUMEROS
 let n1 = 8
 let n2 = 6.3
 let n3= 7

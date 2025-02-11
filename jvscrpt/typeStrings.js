@@ -1,3 +1,6 @@
+//Autor: Patricia Correia
+//Data: 10/02/25
+//Testando uso do tipo string
 const cumprimento = ' "teste" ';
 const citacao = ` "teste" `;
 
