@@ -1,0 +1,10 @@
+//Autor: Patricia Correia
+//Data: 11/02/25let nomeEstudante;
+//null = valor nulo e proposital, undefined valor não definido e não proposital
+console.log(typeof nomeEstudante)
+
+let telefoneEstudante = null;
+console.log(typeof telefoneEstudante)
+
+console.log(telefoneEstudante + 2)
+

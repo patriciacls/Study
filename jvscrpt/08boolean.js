@@ -1,3 +1,5 @@
+//Autor: Patricia Correia
+//Data: 11/02/25
 /*Use == quando você deseja comparar valores, permitindo a conversão de tipos. 
 Use === quando você deseja comparar valores e tipos, sem permitir a conversão de tipos.*/
 const estudante = 'Iuri'

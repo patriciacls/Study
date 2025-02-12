@@ -1,3 +1,5 @@
+//Autor: Patricia Correia
+//Data: 11/02/25
 //TESTE DE COMO FUNCIONA A COERÇÃO DE TIPOS NO JAVASCRIPT
 let valorString = '10';
 let valorNumero = 5;
