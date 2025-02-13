@@ -17,17 +17,49 @@ if(media>=7){
     Aprovado= true
     console.log(`A média é ${media} e ainda conseguiu um acrescimo!!!!`)
     if(advertencias>=2 || faltas >= 3){ //or
-        console.log('Mas foi advertido, passara por conselho')
+        console.log('deuses do ROCK I O ROLL mi helpa')
     }
 }else{                   
-if(media <=7 || (advertencias > 2 && faltas >3) )    //and
+if(average <=7 || (advertencias > 2 && faltas >3) )    //and
     {
-    Aprovado= false
+    aproved= false
     console.log(`A média é ${media}, reprovado.`)
     }else{
         console.log(`A média é ${media}. Reprovado e passara pelo conselho`)
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
