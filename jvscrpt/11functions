@@ -1,0 +1,42 @@
+//Autor: Patricia Correia
+//Data: 11/02/25
+//aprendendo sintaxe de funções
+
+// function testeFuncao(nome, nota) {
+//     console.log(`A nota de ${nome}, é ${nota}`);
+// }
+
+// v1 = 'Isabella'
+// n1 = '9'
+// testeFuncao(v1,n1)
+
+//DECLARAÇÃO DE FUNÇÃO <> EXPRESSÃO DE FUNÇÃO
+//EXPRESSAO DE FUNÇÃO: é uma função que é atribuida a uma variável
+
+// const aprovado = function (falta, nota) {
+//     if (nota < 7 || falta > 4 ){
+//         return false;
+//     } else {
+//         return true;
+//     }   
+// }
+
+// v1 = 5
+// n1 = 8
+// console.log(aprovado(v1,n1))
+
+//ARROW FUNCTION - SETA
+const aprovado =  (falta, nota) => {
+    if (nota < 7 || falta > 4 ){
+        return false;
+    } else {
+        return true;
+    }   
+}
+
+v1 = 5
+n1 = 8
+console.log(aprovado(v1,n1))
+
+const exibeNome = (nome) => nome //suprime o return  usada p callback return
+

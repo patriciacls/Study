@@ -22,7 +22,7 @@ let admin = true
 let logLogon = true
 
 if (logLogon == true && admin == true) {
-    console.log(`Acesso permitido ao usuário ${usuario}`)
+    console.log(`Acesso permitido ao usuário ${usuario}, bem vind`)
 }else{
     console.log(`Acesso negado ao usuário ${usuario}`)
 }
