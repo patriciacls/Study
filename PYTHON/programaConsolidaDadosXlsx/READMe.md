@@ -27,3 +27,20 @@ consolida.py
 A planilha "juntando" todos dados.
 
 planilha_unificada_YYYY-MM-DD_HH-MM-SS.xlsx
+
+
+OBSERVAÇÃO LEGAL! (interessante mesmo, nada a ver com coisas juridicas) 🐍
+Comecei a usar READMEs nesse projeto, e descobri as estruturas que precisam constar nas documentações e tudo mais...
+E cara tem uma função bem legal no python pra gerar os requirements,
+
+A lib pipreqs gera automaticamente!!
+então o que fiz:
+
+1. Instalei primeiro, 
+```bash
+pip install pipreqs
+```
+2. Rodei fazendo um --encoding, pois tinha apresentado erro de conversão na primeira vez que rodei só "pipreqs ."
+```bash
+pipreqs . --encoding=utf-8
+``` 
