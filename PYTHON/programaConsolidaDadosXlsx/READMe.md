@@ -44,3 +44,9 @@ pip install pipreqs
 ```bash
 pipreqs . --encoding=utf-8
 ``` 
+
+Por fim gerou automatticamente o requierements.txt deste repositório!!
+
+Simples, mas achei o máximo.
+
+Save that idea!!
