@@ -30,4 +30,4 @@ Pode abrir uma issue ou enviar uma ideia — vamos aprender juntos! 😊
 
 --- 
 
-## ❤️ Feito com carinho por Patricia Correia 👩‍💻
+❤️ Feito com carinho por Patricia Correia 👩‍💻
