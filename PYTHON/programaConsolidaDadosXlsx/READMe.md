@@ -24,4 +24,6 @@ pip install pandas openpyxl
 consolida.py 
 ```
 3. será criado no diretório C > relatoriosEstoques > consolidacoes 
+A planilha "juntando" todos dados.
+
 planilha_unificada_YYYY-MM-DD_HH-MM-SS.xlsx
