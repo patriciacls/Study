@@ -20,6 +20,8 @@ As colunas da planilha unificada são:
 pip install pandas openpyxl
 ```
 2.  Execute o 
-```bash consolida.py ```
+```bash 
+consolida.py 
+```
 3. será criado no diretório C > relatoriosEstoques > consolidacoes 
 planilha_unificada_YYYY-MM-DD_HH-MM-SS.xlsx
