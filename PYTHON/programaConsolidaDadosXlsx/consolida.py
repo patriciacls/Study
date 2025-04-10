@@ -14,7 +14,6 @@ for arquivo in os.listdir(diretorio):
     if arquivo.endswith(".xlsx") or arquivo.endswith(".xls"):  
         caminho_arquivo = os.path.join(diretorio, arquivo)
         
-       
         wb = load_workbook(caminho_arquivo, data_only=True)
         sheet = wb.active 
         
@@ -22,11 +21,11 @@ for arquivo in os.listdir(diretorio):
         
         dados = []
         for linha in sheet.iter_rows(min_row=29, max_row=34, min_col=1, max_col=6, values_only=True):
-            if linha[0] != "Material":  # Evitar repetição de cabeçalho
+            if linha[0] != "Material":  #evitar repetição cabeçalho
                 dados.append(linha)
         
         df_temp = pd.DataFrame(dados, columns=["Material", "Est Ant", "Entradas", "Est. Fis", "Saídas", "Cons/m3"])
-        df_temp.insert(0, "Filial", id_filial)  # Inserir a coluna da filial
+        df_temp.insert(0, "Filial", id_filial)  #inserir a coluna da filial
        
         dados_unificados.append(df_temp)
 

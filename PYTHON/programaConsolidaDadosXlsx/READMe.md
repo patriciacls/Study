@@ -50,3 +50,5 @@ Por fim gerou automatticamente o requierements.txt deste repositório!!
 Simples, mas achei o máximo.
 
 Save that idea!!
+
+## ❤️ Feito com carinho por Patricia Correia 👩‍💻
