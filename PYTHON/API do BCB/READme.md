@@ -18,5 +18,6 @@ Este notebook automatiza a **coleta de dados econômicos** como **SELIC, Dólar 
 
 ```python
 def buscar_serie_bcb(codigo, nome_coluna, dias_maximos=365*10):
+```
 
 <sub>❤️ Feito com carinho para estudos de dados econômicos e automações em Python por Patricia Correia 👩‍💻 </sub>
