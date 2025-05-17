@@ -48,5 +48,4 @@ Feel free to open an issue or share an idea — let's learn together! 😊</sub>
 
 ---
 
-❤️ Feito com carinho por Patricia Correia 👩‍💻  
 <sub>❤️ Made with care by Patricia Correia 👩‍💻</sub>
