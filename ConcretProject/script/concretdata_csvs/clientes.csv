@@ -1,0 +1,2001 @@
+CLIENTE_ID;NOME;USINA_ID
+1;da Conceição Vieira - ME;100
+2;Borges Castro - ME;60
+3;Fogaça;82
+4;Leão;81
+5;Fogaça - ME;71
+6;Marques;44
+7;Sá;27
+8;Vasconcelos;4
+9;Sales;94
+10;Sales;47
+11;das Neves e Filhos;29
+12;Moraes Monteiro S.A.;70
+13;Campos S/A;56
+14;da Cruz Farias - EI;41
+15;da Cunha;30
+16;Brito;3
+17;Pimenta Aragão Ltda.;22
+18;Aparecida;2
+19;Freitas e Filhos;4
+20;Pires;33
+21;Rezende Jesus e Filhos;67
+22;Sales Pereira - ME;30
+23;Ribeiro Nogueira S.A.;48
+24;Novais da Rocha - EI;14
+25;Souza;33
+26;Monteiro - EI;69
+27;Garcia S.A.;56
+28;Correia;90
+29;Abreu;25
+30;Moraes S.A.;21
+31;Alves;65
+32;Barbosa;38
+33;Carvalho da Luz Ltda.;37
+34;Porto;57
+35;Sampaio S/A;38
+36;Pires;61
+37;Cardoso Nascimento S/A;90
+38;Fonseca Guerra Ltda.;95
+39;Nogueira - EI;99
+40;Fogaça Macedo Ltda.;64
+41;Fonseca;75
+42;Moraes e Filhos;58
+43;Barbosa Porto e Filhos;61
+44;Cunha;48
+45;Macedo;1
+46;Gomes Guerra Ltda.;71
+47;Mendes S/A;72
+48;Câmara;51
+49;Monteiro;63
+50;Sampaio;36
+51;Borges Aragão - ME;76
+52;Campos;23
+53;Dias Barros - EI;64
+54;Brito Ltda.;94
+55;Barros;52
+56;Sá;38
+57;Viana;45
+58;Fogaça da Rocha - EI;14
+59;Monteiro;89
+60;Pires;27
+61;Lima;94
+62;Rocha;19
+63;Lopes;82
+64;da Costa Novaes - EI;40
+65;Viana;23
+66;Moura da Paz - EI;27
+67;Araújo da Rosa - EI;10
+68;Oliveira Sampaio S/A;71
+69;Vasconcelos;30
+70;Porto Vargas Ltda.;59
+71;Ferreira Costa - ME;5
+72;Oliveira;49
+73;Teixeira;37
+74;Casa Grande - ME;9
+75;das Neves;67
+76;Silva;78
+77;Cardoso;84
+78;Cardoso e Filhos;11
+79;Rodrigues Azevedo S/A;93
+80;Duarte;52
+81;Pires;88
+82;Costela Dias S/A;24
+83;Melo Teixeira e Filhos;100
+84;Câmara Martins - ME;14
+85;Melo S/A;63
+86;Fonseca Ltda.;81
+87;Rios Rios e Filhos;34
+88;Pires Sousa S/A;51
+89;Garcia;75
+90;Borges Aparecida e Filhos;7
+91;Ramos Rios S/A;87
+92;da Mata - ME;43
+93;Abreu S.A.;60
+94;Jesus Porto S/A;64
+95;Ferreira;69
+96;da Cruz;6
+97;Brito;94
+98;da Cruz - ME;100
+99;Almeida;56
+100;da Paz S/A;39
+101;Albuquerque;41
+102;Moura;13
+103;Cunha Montenegro Ltda.;21
+104;Sampaio;100
+105;Ribeiro;50
+106;Nunes;28
+107;Moreira Vargas - ME;4
+108;Mendonça;74
+109;Lima;65
+110;Cavalcante;46
+111;da Mata;66
+112;Novais Ltda.;35
+113;Vargas;100
+114;da Rosa;54
+115;Oliveira;38
+116;Montenegro;44
+117;Câmara;43
+118;Vargas;29
+119;Sousa e Filhos;85
+120;Fogaça Cunha - ME;35
+121;Sousa;56
+122;Gonçalves;33
+123;Rezende Marques Ltda.;57
+124;Brito Ltda.;32
+125;Leão;50
+126;Rezende;13
+127;Pereira;24
+128;Porto - ME;65
+129;Lima S.A.;31
+130;Alves da Mota - EI;23
+131;da Cunha Sá - ME;89
+132;Rezende;68
+133;da Mata - ME;59
+134;Pimenta Andrade - ME;40
+135;Brito;48
+136;Gomes S/A;82
+137;Cavalcante;79
+138;Porto Pereira S/A;15
+139;Sampaio Oliveira - ME;3
+140;Sampaio S/A;50
+141;Nunes Cunha Ltda.;99
+142;Aparecida;71
+143;Leão;4
+144;Mendonça S.A.;70
+145;da Mata;40
+146;Porto;44
+147;Marques;11
+148;Garcia;34
+149;Melo;55
+150;Araújo;43
+151;Santos;98
+152;Montenegro Peixoto - EI;7
+153;Dias Melo Ltda.;83
+154;Rocha;1
+155;da Mata S/A;97
+156;Ramos - ME;15
+157;Nunes;81
+158;Duarte Jesus - EI;18
+159;Nunes Marques S.A.;10
+160;Casa Grande;59
+161;Silva;6
+162;Duarte Rios - ME;5
+163;Aragão;86
+164;Rocha Vargas S.A.;10
+165;Costa;10
+166;Abreu;26
+167;Pacheco;6
+168;Vasconcelos das Neves - EI;14
+169;Sampaio;20
+170;Fonseca;52
+171;Rios;98
+172;da Rocha - ME;24
+173;da Paz Martins S.A.;71
+174;Nogueira - ME;95
+175;Dias da Cruz S.A.;34
+176;Albuquerque;75
+177;Azevedo Sales Ltda.;50
+178;Ribeiro;46
+179;Correia S/A;53
+180;Garcia;88
+181;Cassiano;65
+182;Barros;52
+183;Rios e Filhos;66
+184;Nascimento;27
+185;Brito;20
+186;Vieira;24
+187;Pimenta;90
+188;Mendes;61
+189;Gomes Ramos e Filhos;35
+190;Siqueira;50
+191;Vargas Fernandes - EI;37
+192;Silveira;73
+193;Gonçalves - ME;91
+194;Pires Monteiro S/A;48
+195;Nogueira;40
+196;Mendonça S.A.;52
+197;Brito - ME;10
+198;da Rosa - EI;97
+199;Almeida Porto - ME;94
+200;Ferreira Souza S/A;50
+201;da Luz;51
+202;Rodrigues;45
+203;Novais;5
+204;Castro;69
+205;da Rocha;20
+206;Pimenta;20
+207;Alves Macedo S/A;39
+208;Nascimento;89
+209;da Mota;70
+210;Lima S.A.;30
+211;da Rocha Vargas Ltda.;32
+212;Lopes;32
+213;Cavalcanti - ME;17
+214;Barbosa;93
+215;Pereira;48
+216;Ferreira;69
+217;Vasconcelos e Filhos;66
+218;Camargo - ME;20
+219;Camargo S.A.;21
+220;Leão Pereira S/A;75
+221;Correia;92
+222;Borges;42
+223;Souza Ltda.;61
+224;Cardoso;94
+225;Caldeira S/A;64
+226;Silveira - ME;47
+227;Castro Ltda.;38
+228;Duarte;57
+229;Correia;82
+230;Oliveira S/A;25
+231;da Costa;4
+232;Pacheco Rios S/A;55
+233;Porto;34
+234;Camargo e Filhos;28
+235;Barros;37
+236;da Cruz;64
+237;Melo;82
+238;Cirino;34
+239;Nascimento S.A.;95
+240;Porto S.A.;61
+241;Guerra Araújo Ltda.;69
+242;Silveira;12
+243;Silveira;40
+244;Araújo - EI;54
+245;Gonçalves;30
+246;Cavalcante;31
+247;Lima Câmara Ltda.;52
+248;Rodrigues S.A.;65
+249;Borges;75
+250;Freitas e Filhos;80
+251;Carvalho Ramos - EI;76
+252;Vieira Duarte - EI;47
+253;Vasconcelos;3
+254;Melo Casa Grande S/A;36
+255;da Paz Aragão Ltda.;48
+256;Nascimento;24
+257;Vasconcelos;86
+258;da Cruz - ME;51
+259;Lima Ferreira - EI;68
+260;Pires;23
+261;Correia;16
+262;Souza - EI;7
+263;Teixeira Vieira e Filhos;83
+264;da Cruz - ME;94
+265;Silveira;42
+266;Abreu;26
+267;Moreira;73
+268;Castro Siqueira e Filhos;44
+269;Pires da Conceição Ltda.;31
+270;Barros;100
+271;Fernandes;6
+272;Lima;3
+273;Monteiro;59
+274;Viana;37
+275;Pires;46
+276;Fogaça;72
+277;Machado Lopes S.A.;60
+278;Brito Jesus S.A.;56
+279;Caldeira S.A.;56
+280;Cavalcante;39
+281;Pacheco;37
+282;Freitas;32
+283;Guerra;37
+284;Sousa;48
+285;Pacheco;47
+286;Câmara S/A;75
+287;Barros;59
+288;Vargas Ltda.;97
+289;Monteiro da Rosa S.A.;49
+290;Barros;16
+291;Ferreira;75
+292;Fonseca;45
+293;Pimenta;17
+294;Casa Grande Gomes - EI;62
+295;Vasconcelos;60
+296;Casa Grande S/A;65
+297;Dias Câmara S.A.;83
+298;Nascimento;99
+299;Moraes Freitas S.A.;89
+300;Rocha S/A;45
+301;Siqueira;86
+302;da Paz - EI;27
+303;da Mata;100
+304;Gomes;83
+305;Campos Ltda.;70
+306;Câmara da Paz Ltda.;68
+307;Cirino S.A.;37
+308;Souza S/A;13
+309;Sá;17
+310;Ferreira;6
+311;da Rocha e Filhos;3
+312;Viana S/A;10
+313;da Luz;42
+314;Rios - ME;46
+315;Cunha;36
+316;Cunha;9
+317;da Costa da Luz S.A.;25
+318;Nogueira;76
+319;Castro;34
+320;Carvalho Ramos - ME;40
+321;Fernandes S.A.;85
+322;Leão;76
+323;Correia S/A;19
+324;Costela Ltda.;76
+325;Vasconcelos;40
+326;Nascimento Nunes Ltda.;54
+327;Fernandes - EI;38
+328;Ferreira;73
+329;Mendonça;100
+330;Cavalcante Araújo S/A;14
+331;Leão;70
+332;Castro;28
+333;Guerra;29
+334;Cassiano S.A.;5
+335;Pinto;57
+336;Aragão;22
+337;Sousa;28
+338;Vieira;67
+339;Guerra;33
+340;Abreu;77
+341;Fernandes - ME;84
+342;da Conceição Nascimento S/A;4
+343;Melo Moraes - ME;66
+344;Carvalho Camargo - ME;66
+345;Sampaio e Filhos;12
+346;Caldeira;37
+347;da Mata e Filhos;34
+348;Nogueira;1
+349;Cavalcante Rezende - EI;68
+350;Rezende Montenegro Ltda.;62
+351;Costela Azevedo S/A;45
+352;Cunha S.A.;71
+353;Carvalho Pastor S/A;49
+354;Sampaio;90
+355;Abreu;69
+356;Almeida;53
+357;Cassiano;93
+358;Lopes;79
+359;Pires Ltda.;96
+360;Siqueira Monteiro S/A;16
+361;Cunha;56
+362;Oliveira Monteiro - ME;97
+363;Duarte;38
+364;Alves;90
+365;Cavalcante - EI;80
+366;Porto S.A.;82
+367;Araújo;87
+368;Siqueira;7
+369;Silveira;6
+370;Aragão Novaes e Filhos;83
+371;Moraes Costa S/A;70
+372;da Paz;38
+373;da Mota;14
+374;Dias;92
+375;Viana;67
+376;Pastor;86
+377;Barros;3
+378;Marques - EI;59
+379;Lopes;89
+380;Freitas Vargas - ME;95
+381;Casa Grande Ltda.;55
+382;Cavalcanti - EI;65
+383;da Costa Azevedo - EI;27
+384;Correia;56
+385;Sales;92
+386;Aparecida;95
+387;Ramos Lopes S.A.;4
+388;Oliveira;34
+389;da Paz;32
+390;Aragão Macedo e Filhos;91
+391;Moura;66
+392;Ramos S/A;37
+393;Ferreira Oliveira - EI;51
+394;Nogueira Lopes S.A.;61
+395;Vasconcelos - ME;56
+396;Vasconcelos;59
+397;da Cruz Viana S/A;21
+398;Alves;62
+399;Rodrigues;35
+400;Cardoso;19
+401;Cunha Duarte S.A.;22
+402;Sampaio;99
+403;Farias;84
+404;Rios;77
+405;Montenegro - EI;74
+406;da Cunha Monteiro S.A.;40
+407;Alves;41
+408;Brito;54
+409;Silva;22
+410;Souza;55
+411;Santos;89
+412;da Cunha S/A;48
+413;Nunes;48
+414;da Rocha Ltda.;51
+415;Rios;94
+416;Barros;100
+417;Pinto Sampaio e Filhos;75
+418;da Costa Vieira S.A.;56
+419;Dias;81
+420;Rocha;93
+421;Macedo;77
+422;da Paz Pastor - EI;81
+423;Sousa;83
+424;Vasconcelos Vieira - ME;85
+425;Rodrigues;52
+426;Cunha Abreu - EI;33
+427;Caldeira S/A;93
+428;Fogaça S.A.;68
+429;Fogaça - EI;54
+430;Cavalcante Santos S.A.;45
+431;Ramos Ferreira - EI;2
+432;Araújo;89
+433;da Luz Azevedo e Filhos;67
+434;Vieira;38
+435;Fonseca da Rocha e Filhos;79
+436;Oliveira;97
+437;da Mota;45
+438;Porto da Cruz e Filhos;5
+439;Costela;67
+440;Caldeira e Filhos;25
+441;Campos da Rocha - ME;46
+442;Sousa;66
+443;Jesus Marques S.A.;60
+444;Leão;6
+445;Andrade;47
+446;da Mata Vargas - ME;78
+447;Cavalcante S/A;49
+448;Rodrigues e Filhos;37
+449;Cavalcante S.A.;42
+450;Pires - ME;100
+451;da Cruz Cassiano S.A.;90
+452;Moreira;11
+453;Sales;98
+454;Campos;49
+455;Lopes;6
+456;Sá;68
+457;Sampaio Lima e Filhos;10
+458;Pacheco;6
+459;Melo;22
+460;Abreu S.A.;55
+461;Moraes;88
+462;Andrade Moreira Ltda.;48
+463;Aragão;50
+464;Rios - ME;38
+465;Monteiro - ME;27
+466;Gomes - ME;71
+467;Alves S/A;29
+468;Teixeira;27
+469;Alves;77
+470;Silveira;20
+471;Silveira Viana S.A.;72
+472;Montenegro Teixeira S.A.;75
+473;Siqueira;28
+474;Ramos;54
+475;Monteiro;1
+476;Vargas;75
+477;Andrade;15
+478;Albuquerque;28
+479;Fonseca;59
+480;Duarte da Cunha - ME;18
+481;Fogaça;8
+482;Monteiro S/A;16
+483;Rios;2
+484;Araújo;39
+485;das Neves;80
+486;Oliveira - ME;20
+487;Nascimento Moreira - ME;80
+488;Araújo;31
+489;Montenegro;95
+490;Lima;53
+491;Montenegro - ME;85
+492;Pinto;57
+493;Abreu e Filhos;25
+494;Peixoto Caldeira S.A.;76
+495;Cirino;64
+496;Duarte;23
+497;Marques;61
+498;Costa;43
+499;Freitas;8
+500;Peixoto;35
+501;Guerra;54
+502;Mendes;89
+503;Rios;50
+504;Sousa S/A;46
+505;Nunes;74
+506;Barros;23
+507;Rezende;55
+508;Cassiano;48
+509;da Mota Ltda.;79
+510;Barros;15
+511;Nogueira Campos - ME;3
+512;Lima;84
+513;Abreu - ME;73
+514;da Conceição Sá - EI;95
+515;Fernandes Farias S.A.;51
+516;Jesus;64
+517;Caldeira - EI;72
+518;Freitas Borges - ME;97
+519;Borges Rodrigues e Filhos;68
+520;das Neves da Costa - EI;31
+521;Silveira;85
+522;Peixoto;81
+523;Leão S.A.;46
+524;Ferreira Cunha - EI;60
+525;Camargo;57
+526;Costela - EI;78
+527;Costela Casa Grande S.A.;2
+528;Lopes da Mota - ME;79
+529;Ribeiro - EI;18
+530;Sampaio Cardoso S/A;78
+531;Cirino Pastor S/A;23
+532;Ramos;92
+533;Souza;3
+534;Barros;41
+535;da Conceição;46
+536;Borges S/A;3
+537;Cirino - EI;17
+538;Silva;57
+539;Machado Mendonça S.A.;22
+540;Abreu Peixoto Ltda.;5
+541;Camargo;69
+542;Montenegro;25
+543;Fernandes;31
+544;Jesus Ltda.;80
+545;Teixeira;1
+546;Almeida;89
+547;Cavalcante;63
+548;Farias;100
+549;da Luz;47
+550;Sá;47
+551;Cassiano da Cruz - EI;20
+552;Camargo;51
+553;Melo - ME;46
+554;Vieira;50
+555;Novais;40
+556;Caldeira Farias e Filhos;7
+557;Câmara - ME;55
+558;Vargas;46
+559;Cavalcanti - ME;87
+560;Cavalcanti;29
+561;Moura Garcia Ltda.;98
+562;Vargas;100
+563;Barbosa;38
+564;Gonçalves Jesus S.A.;29
+565;Ferreira;85
+566;Moreira Ltda.;40
+567;Correia;35
+568;da Rocha Vasconcelos - EI;44
+569;Campos;89
+570;Rocha S/A;8
+571;Dias S.A.;23
+572;Alves;11
+573;Rocha Carvalho S.A.;61
+574;Cirino;28
+575;da Rocha;97
+576;Santos;45
+577;Camargo;77
+578;Pacheco Monteiro - ME;11
+579;Oliveira Porto S.A.;45
+580;Costela;7
+581;Rezende Lima e Filhos;6
+582;Cunha;3
+583;Caldeira e Filhos;49
+584;Sampaio - ME;40
+585;Aparecida - ME;95
+586;Rezende - ME;27
+587;da Mota;16
+588;Fernandes;49
+589;Souza;96
+590;Gomes;30
+591;Cassiano Rodrigues e Filhos;39
+592;Cavalcante;44
+593;Vargas Machado e Filhos;15
+594;Ribeiro;20
+595;Silveira;93
+596;Vieira;97
+597;Rios Pastor - ME;43
+598;Azevedo;18
+599;Fonseca;12
+600;Costa - EI;49
+601;Castro;13
+602;Monteiro - EI;68
+603;Pacheco S.A.;55
+604;Peixoto;86
+605;Cardoso S/A;17
+606;Silveira Fonseca - ME;56
+607;Moraes S.A.;46
+608;Freitas da Mota e Filhos;14
+609;Pimenta Andrade e Filhos;23
+610;Rocha;65
+611;Garcia;39
+612;Cardoso;49
+613;Fonseca Ltda.;70
+614;Montenegro S.A.;55
+615;Lopes Ramos - ME;51
+616;da Rocha da Paz S/A;2
+617;Câmara da Paz - EI;84
+618;da Cruz Vasconcelos - EI;95
+619;Moura;70
+620;Ramos;21
+621;Barbosa Rodrigues - ME;83
+622;Silveira - EI;95
+623;Viana Ltda.;41
+624;Santos;86
+625;Viana Barbosa S.A.;81
+626;Vieira Costela - ME;59
+627;Moura Moura - EI;36
+628;Vargas;15
+629;Jesus;8
+630;Macedo;15
+631;Pereira;2
+632;Cardoso e Filhos;77
+633;Silva Rios S/A;46
+634;Farias Brito Ltda.;36
+635;da Costa;76
+636;Cunha;6
+637;Melo;10
+638;Mendonça;40
+639;da Cunha da Costa - ME;49
+640;Monteiro Ltda.;44
+641;Pereira;46
+642;Cavalcanti;84
+643;da Luz Mendonça e Filhos;18
+644;Martins Ltda.;73
+645;Moura;34
+646;da Conceição Ltda.;3
+647;Aragão;30
+648;Viana e Filhos;32
+649;Lima e Filhos;81
+650;Alves S.A.;43
+651;Carvalho;84
+652;Costa;7
+653;Mendonça Moreira - EI;73
+654;Silva;43
+655;Cunha;1
+656;Carvalho Nunes - ME;24
+657;Duarte Brito S.A.;33
+658;Cassiano Brito S.A.;10
+659;Pastor Ferreira S/A;91
+660;Sousa da Rocha S.A.;20
+661;Garcia S.A.;96
+662;da Cunha Marques - ME;61
+663;Siqueira;75
+664;Freitas;52
+665;Fernandes;65
+666;da Luz S.A.;7
+667;Vieira;40
+668;Silva Silva S/A;16
+669;Guerra S.A.;26
+670;Vieira;98
+671;Barbosa;63
+672;Melo Câmara e Filhos;92
+673;Fernandes;7
+674;Costela;36
+675;Oliveira;53
+676;Duarte;22
+677;Borges;73
+678;Castro;91
+679;Campos;24
+680;Fonseca S/A;12
+681;da Conceição;91
+682;Castro Moura S/A;5
+683;Rodrigues;4
+684;Mendes Ltda.;10
+685;Cirino Rocha S.A.;73
+686;Garcia S.A.;19
+687;Castro - EI;81
+688;Oliveira S.A.;68
+689;Pacheco;22
+690;Sales - EI;70
+691;Nogueira e Filhos;93
+692;Jesus;58
+693;Cardoso;44
+694;Sales Costa S.A.;75
+695;Moraes;58
+696;Souza;76
+697;da Mota;4
+698;Sousa;50
+699;Nunes Souza S.A.;73
+700;da Cunha;45
+701;Peixoto;60
+702;Fonseca;5
+703;Nunes;19
+704;Teixeira S.A.;51
+705;Cassiano Vargas S.A.;49
+706;Guerra Martins e Filhos;43
+707;Cirino;62
+708;Moura;99
+709;Martins Farias S/A;90
+710;Melo;1
+711;Garcia;68
+712;Pereira e Filhos;22
+713;Macedo;61
+714;Andrade S.A.;47
+715;Fogaça da Paz - EI;87
+716;Silveira;5
+717;Barbosa Lima Ltda.;25
+718;Martins Castro S/A;15
+719;da Rocha;93
+720;Pacheco;3
+721;Duarte;41
+722;Nascimento;95
+723;Moraes;36
+724;Teixeira - EI;6
+725;Pacheco;46
+726;Moura;39
+727;Guerra Sales - ME;40
+728;Moreira;84
+729;Abreu;80
+730;Cunha;46
+731;Rezende;30
+732;Rodrigues S.A.;99
+733;Dias S/A;34
+734;Gonçalves S.A.;61
+735;Caldeira;48
+736;Alves Moreira Ltda.;71
+737;Pacheco Jesus Ltda.;60
+738;Aragão;16
+739;Carvalho Porto S.A.;14
+740;Gonçalves;31
+741;da Costa S/A;98
+742;Cirino Gomes S/A;54
+743;da Rocha da Costa Ltda.;75
+744;Montenegro;19
+745;Peixoto S.A.;55
+746;Martins;70
+747;Pacheco S/A;46
+748;Moreira;26
+749;Abreu Machado - ME;8
+750;Pinto;82
+751;Fonseca;67
+752;Sá;7
+753;Rocha;29
+754;Ribeiro Borges - EI;65
+755;Cunha;27
+756;Ribeiro;10
+757;Nogueira - ME;30
+758;Alves;86
+759;Aragão S.A.;92
+760;Cassiano Ramos - ME;35
+761;Sampaio;85
+762;Cavalcanti Pinto S.A.;38
+763;Andrade;70
+764;da Rocha Ltda.;45
+765;Lopes;59
+766;Câmara;24
+767;Moura Sales - ME;70
+768;Araújo;68
+769;Ribeiro Sá - ME;58
+770;Pastor;59
+771;Cardoso Cardoso Ltda.;3
+772;Casa Grande;95
+773;Sousa Cavalcante S/A;14
+774;Castro;33
+775;Fonseca S.A.;70
+776;Marques Ltda.;10
+777;Pacheco - EI;92
+778;Sales - EI;55
+779;Campos Correia - EI;67
+780;Dias;80
+781;Cardoso e Filhos;98
+782;Ferreira Duarte S/A;9
+783;Pereira;89
+784;Mendes;16
+785;Farias;92
+786;Silveira Ltda.;42
+787;Ramos;13
+788;Duarte - ME;55
+789;Duarte;44
+790;Cavalcanti S.A.;98
+791;Sales;99
+792;Alves;64
+793;Vargas;100
+794;Martins Costela - ME;90
+795;Jesus;47
+796;Santos;97
+797;Abreu;43
+798;Siqueira S/A;48
+799;Fonseca;99
+800;Carvalho;55
+801;Vieira;79
+802;da Rosa S/A;35
+803;da Cunha;25
+804;Camargo;5
+805;Aparecida;79
+806;Ramos;59
+807;Caldeira e Filhos;54
+808;Farias Moreira e Filhos;46
+809;Cunha;71
+810;da Mota;95
+811;Freitas;39
+812;Nunes;56
+813;Ramos;82
+814;da Luz S/A;29
+815;Castro S/A;7
+816;Silveira;12
+817;Rodrigues S/A;72
+818;Dias;3
+819;Novaes;69
+820;Rios Ltda.;87
+821;da Cruz;44
+822;Montenegro - EI;10
+823;Marques - EI;60
+824;Castro - EI;38
+825;Vieira Dias - EI;46
+826;Peixoto;21
+827;Nunes Ltda.;42
+828;Cassiano;40
+829;Pimenta Ferreira S.A.;94
+830;Machado;3
+831;da Mota;83
+832;Peixoto;45
+833;Lopes - EI;15
+834;Ribeiro;83
+835;da Mata Costa Ltda.;41
+836;Fernandes Fogaça S.A.;63
+837;Vieira Rodrigues e Filhos;72
+838;Camargo - ME;28
+839;Cirino S.A.;47
+840;Cirino;83
+841;Vasconcelos Mendes Ltda.;45
+842;Camargo Ltda.;18
+843;da Luz;21
+844;Azevedo;33
+845;Santos Moreira S.A.;73
+846;Porto;53
+847;Correia;81
+848;Almeida Carvalho e Filhos;68
+849;Pereira Duarte S/A;30
+850;Rocha - ME;38
+851;Rocha Pimenta S.A.;37
+852;Cardoso;96
+853;Araújo Ltda.;100
+854;Cavalcanti e Filhos;55
+855;Castro Silva S/A;74
+856;Novais Gonçalves Ltda.;14
+857;da Cruz e Filhos;33
+858;Campos;40
+859;Aragão;22
+860;da Conceição Costa S/A;59
+861;Peixoto S/A;92
+862;Silveira S.A.;75
+863;Pires Ltda.;67
+864;Vieira S.A.;69
+865;Pereira;80
+866;Pires;11
+867;Aragão;55
+868;Dias;44
+869;Moura;7
+870;Sales - ME;55
+871;Lopes;78
+872;Araújo;30
+873;Cassiano S/A;63
+874;Gonçalves Ltda.;30
+875;Siqueira e Filhos;86
+876;Rodrigues da Costa - EI;79
+877;Peixoto;81
+878;da Luz;75
+879;Albuquerque;44
+880;da Costa Cavalcante - EI;27
+881;Martins;99
+882;da Cruz Mendonça - EI;82
+883;da Rocha;88
+884;Marques;50
+885;Marques;58
+886;Porto Ltda.;25
+887;Souza;41
+888;Mendonça Cardoso S/A;87
+889;Duarte Cavalcanti S/A;40
+890;Marques;98
+891;Cardoso;44
+892;Caldeira;7
+893;Caldeira;23
+894;Silva da Cruz S/A;1
+895;Monteiro Vargas Ltda.;76
+896;Cunha;66
+897;Sousa;43
+898;Moraes Viana - EI;50
+899;Vasconcelos S/A;27
+900;Machado;85
+901;Câmara;78
+902;Alves - ME;31
+903;da Cruz;9
+904;Fogaça das Neves - EI;25
+905;Moura Correia S.A.;3
+906;da Paz;42
+907;Barbosa;90
+908;Vargas Brito e Filhos;21
+909;Gonçalves Sales - EI;79
+910;da Rosa;39
+911;Cavalcanti;99
+912;Nunes;36
+913;Vargas;14
+914;Farias;38
+915;das Neves e Filhos;11
+916;da Cruz;79
+917;Martins;90
+918;Gonçalves Aragão - EI;10
+919;Nascimento;38
+920;Nunes;74
+921;Casa Grande;42
+922;Novais Sá - EI;60
+923;da Costa Guerra - ME;69
+924;Rocha Correia e Filhos;34
+925;Fonseca;58
+926;da Conceição;78
+927;Fonseca;7
+928;Oliveira Correia - ME;33
+929;Pinto;83
+930;Teixeira S/A;42
+931;da Cunha;91
+932;Nogueira;78
+933;da Mata e Filhos;65
+934;Caldeira;71
+935;Almeida;29
+936;Lima Azevedo - ME;49
+937;Sá;85
+938;Sá S/A;17
+939;Fernandes - ME;96
+940;Pereira;51
+941;Costa Ltda.;82
+942;Pacheco;2
+943;Moura S.A.;69
+944;Mendes;41
+945;da Costa S.A.;33
+946;Cunha Brito - ME;24
+947;Castro Ltda.;75
+948;Pastor - EI;36
+949;Melo - EI;88
+950;Gomes;49
+951;Pacheco;77
+952;Souza;86
+953;Porto Ltda.;82
+954;Azevedo Moura - ME;28
+955;Lima S.A.;76
+956;Rios;35
+957;Nunes Castro Ltda.;73
+958;Dias Leão e Filhos;38
+959;da Paz S.A.;52
+960;Cavalcante;51
+961;Viana S/A;61
+962;Rodrigues Almeida Ltda.;60
+963;Andrade;7
+964;das Neves;61
+965;da Paz Costela S.A.;62
+966;da Paz;72
+967;da Conceição Ltda.;12
+968;Aragão;51
+969;Araújo Carvalho Ltda.;20
+970;Fogaça Aragão e Filhos;37
+971;da Paz;89
+972;Martins Pimenta - ME;74
+973;Almeida;26
+974;Teixeira;66
+975;Montenegro - ME;28
+976;Cavalcante;68
+977;Rezende Castro - EI;14
+978;Sá;20
+979;Montenegro Fonseca e Filhos;50
+980;Rezende Sousa - EI;68
+981;Mendonça Aparecida S.A.;34
+982;Peixoto;30
+983;da Costa Pacheco Ltda.;19
+984;Pacheco;24
+985;Mendonça Leão S.A.;35
+986;Rios Ltda.;80
+987;Sales - ME;20
+988;Santos;24
+989;Macedo - ME;34
+990;Jesus;45
+991;Pires;49
+992;Marques Almeida - EI;53
+993;Vieira S.A.;13
+994;Vieira Cavalcante - EI;44
+995;Rocha Macedo S.A.;40
+996;Santos;52
+997;Lima Pimenta - EI;83
+998;Barros S.A.;12
+999;Mendonça e Filhos;68
+1000;Carvalho S/A;61
+1001;Sousa;92
+1002;Monteiro;19
+1003;Gonçalves Marques - EI;29
+1004;Dias;67
+1005;Aparecida Vargas - EI;30
+1006;Teixeira Gomes - EI;29
+1007;Pinto Ltda.;76
+1008;Castro - ME;74
+1009;Gomes e Filhos;29
+1010;Nogueira e Filhos;23
+1011;Rodrigues;80
+1012;da Costa Ltda.;38
+1013;da Rocha e Filhos;32
+1014;Silva;61
+1015;Costela;55
+1016;Guerra;80
+1017;Oliveira Andrade S/A;24
+1018;Fonseca;50
+1019;Guerra Rocha S/A;87
+1020;Casa Grande da Mota e Filhos;44
+1021;Sá;25
+1022;Peixoto;55
+1023;Martins;6
+1024;Costela da Mota - ME;22
+1025;Sales;59
+1026;Cassiano;37
+1027;Albuquerque;3
+1028;Rodrigues da Cunha Ltda.;29
+1029;Nogueira Albuquerque - ME;84
+1030;Sousa;15
+1031;Marques;38
+1032;Guerra e Filhos;22
+1033;Freitas S/A;49
+1034;da Luz da Rosa S.A.;76
+1035;Andrade;51
+1036;Macedo;10
+1037;Câmara;42
+1038;da Paz;22
+1039;Pires - EI;88
+1040;Martins;65
+1041;Gomes Teixeira Ltda.;61
+1042;Rios;44
+1043;da Paz;79
+1044;Cavalcanti;85
+1045;Guerra Mendes S/A;26
+1046;Cavalcante - EI;79
+1047;Câmara Nascimento - ME;93
+1048;Fernandes - EI;88
+1049;Correia - EI;16
+1050;Moura Campos S/A;6
+1051;Gomes Ltda.;5
+1052;Alves Barros Ltda.;85
+1053;da Mata S/A;12
+1054;da Rocha S.A.;81
+1055;Correia e Filhos;44
+1056;Santos;33
+1057;Novaes;85
+1058;Alves;23
+1059;Correia;10
+1060;Siqueira;64
+1061;Ramos - ME;36
+1062;Duarte Siqueira S/A;68
+1063;da Cunha - EI;76
+1064;Pimenta Jesus Ltda.;71
+1065;Vieira;89
+1066;Cunha Fernandes S.A.;31
+1067;da Conceição;100
+1068;Siqueira - ME;64
+1069;Machado S/A;23
+1070;Almeida e Filhos;34
+1071;Câmara S/A;96
+1072;Mendonça Ltda.;58
+1073;da Cruz Ltda.;89
+1074;Nascimento S.A.;74
+1075;Siqueira S.A.;36
+1076;Casa Grande da Paz Ltda.;13
+1077;Pimenta;3
+1078;Ferreira;82
+1079;Castro - EI;78
+1080;Camargo;34
+1081;Ferreira;37
+1082;Oliveira Ltda.;15
+1083;Barbosa;96
+1084;Peixoto;43
+1085;Almeida Gonçalves e Filhos;62
+1086;Sousa;5
+1087;Cunha Pacheco e Filhos;14
+1088;Santos Vargas e Filhos;82
+1089;Sousa Ferreira - EI;36
+1090;Alves Pastor - ME;100
+1091;Peixoto;1
+1092;Macedo Ltda.;32
+1093;Fogaça S.A.;16
+1094;Montenegro;46
+1095;Jesus;69
+1096;Brito;88
+1097;Leão;39
+1098;Pimenta Freitas S.A.;25
+1099;Duarte S/A;57
+1100;Mendes;18
+1101;Farias;72
+1102;Farias S.A.;79
+1103;Campos Teixeira - ME;82
+1104;Borges;69
+1105;da Mota;94
+1106;Sousa Ltda.;60
+1107;Nunes Garcia - EI;75
+1108;Almeida;43
+1109;Rios;18
+1110;Machado Nascimento - ME;92
+1111;Abreu Ltda.;23
+1112;Mendonça Ltda.;84
+1113;Correia;89
+1114;Vasconcelos S/A;35
+1115;Nunes Abreu - ME;10
+1116;da Rocha das Neves - EI;43
+1117;Freitas;85
+1118;das Neves;4
+1119;Montenegro;75
+1120;Dias;78
+1121;Barros Garcia - EI;16
+1122;Guerra e Filhos;57
+1123;Albuquerque;66
+1124;Fernandes Ltda.;98
+1125;Gonçalves;100
+1126;Pimenta - ME;43
+1127;da Conceição Farias - EI;55
+1128;Leão Novais - ME;77
+1129;Pereira - EI;17
+1130;Lima Cavalcante - EI;90
+1131;Lopes Pinto e Filhos;80
+1132;Nogueira;37
+1133;Duarte Peixoto e Filhos;61
+1134;Abreu da Mota - ME;84
+1135;Novaes;81
+1136;Carvalho S.A.;85
+1137;Lopes;1
+1138;Gomes Viana S.A.;86
+1139;Nascimento;49
+1140;Nascimento Moura e Filhos;85
+1141;da Rosa;96
+1142;Viana Farias - ME;32
+1143;Ramos - EI;10
+1144;Fernandes;26
+1145;da Paz;98
+1146;Albuquerque;21
+1147;Albuquerque;91
+1148;Brito Ltda.;32
+1149;Gonçalves Moreira - EI;21
+1150;Porto;31
+1151;da Rosa;17
+1152;Teixeira;37
+1153;Fernandes - ME;46
+1154;Ferreira Costela - EI;63
+1155;Mendonça;15
+1156;Novaes Gomes S/A;60
+1157;Santos;44
+1158;Caldeira Novaes S/A;55
+1159;Nascimento;75
+1160;Pires;52
+1161;Leão Ltda.;52
+1162;Souza - EI;70
+1163;Pastor - ME;48
+1164;Duarte;37
+1165;Siqueira Ltda.;32
+1166;da Rosa;66
+1167;Sales Pacheco e Filhos;81
+1168;Moraes - ME;27
+1169;Lopes;89
+1170;Moreira e Filhos;44
+1171;Moraes Moreira - ME;8
+1172;Nascimento S.A.;38
+1173;da Costa S/A;11
+1174;Aragão;67
+1175;Silveira;73
+1176;Sousa S.A.;33
+1177;Andrade;49
+1178;Câmara;68
+1179;Nascimento;29
+1180;Pereira Ltda.;61
+1181;Guerra;36
+1182;Vasconcelos Rocha Ltda.;54
+1183;Martins;94
+1184;Rodrigues e Filhos;64
+1185;da Luz Ltda.;26
+1186;Leão Aparecida e Filhos;58
+1187;da Mata Albuquerque Ltda.;27
+1188;Macedo S/A;44
+1189;Sá S.A.;88
+1190;Rodrigues;55
+1191;Almeida Campos - ME;27
+1192;Costela da Conceição e Filhos;62
+1193;Castro;96
+1194;da Costa;16
+1195;Souza Porto - EI;70
+1196;Farias Novaes S.A.;1
+1197;Aparecida Almeida S/A;88
+1198;da Costa;96
+1199;Leão;26
+1200;Câmara Silva e Filhos;16
+1201;Santos;11
+1202;Peixoto;50
+1203;Costa Porto S.A.;29
+1204;Vieira;45
+1205;Brito - ME;44
+1206;da Mata Aparecida e Filhos;58
+1207;Caldeira;43
+1208;Ribeiro Rodrigues S/A;75
+1209;Mendonça;1
+1210;Lopes S.A.;10
+1211;Cassiano;58
+1212;Monteiro e Filhos;31
+1213;Pastor;61
+1214;Silva;41
+1215;Rodrigues;75
+1216;Rocha Sampaio S/A;67
+1217;Cassiano Novaes Ltda.;94
+1218;Macedo Montenegro - EI;44
+1219;da Conceição Moraes - ME;90
+1220;Nascimento;82
+1221;Ramos;92
+1222;Rocha Novaes e Filhos;3
+1223;Barbosa;52
+1224;Freitas S/A;81
+1225;da Cruz Marques - EI;96
+1226;Garcia e Filhos;92
+1227;da Paz Dias S/A;21
+1228;Pacheco;32
+1229;Garcia;98
+1230;Cavalcante Camargo S.A.;11
+1231;Barros Pereira S.A.;54
+1232;Costa;24
+1233;Sampaio Costa Ltda.;54
+1234;da Paz Rocha S/A;39
+1235;Abreu;64
+1236;Silveira Cardoso Ltda.;89
+1237;Costa;86
+1238;Castro da Paz S/A;30
+1239;Gomes Oliveira - EI;75
+1240;Guerra Ltda.;30
+1241;Moreira S.A.;59
+1242;Costa Araújo Ltda.;53
+1243;Freitas;16
+1244;Santos;18
+1245;Marques;53
+1246;Garcia da Paz Ltda.;76
+1247;Cavalcante Novaes Ltda.;55
+1248;Martins;3
+1249;Gonçalves Barbosa e Filhos;62
+1250;Marques;31
+1251;da Rosa Cunha - ME;82
+1252;Moura;43
+1253;Montenegro;63
+1254;Fernandes Souza - ME;88
+1255;Dias Pacheco - EI;67
+1256;Camargo;35
+1257;Marques - EI;67
+1258;Freitas;71
+1259;Rocha Ltda.;25
+1260;Macedo;6
+1261;Campos Cassiano - ME;73
+1262;Machado e Filhos;5
+1263;da Conceição;39
+1264;Viana Rios e Filhos;60
+1265;Cavalcante Moraes S/A;15
+1266;Garcia;27
+1267;Moraes;97
+1268;Novais;88
+1269;Camargo;3
+1270;Rocha;39
+1271;Almeida;61
+1272;da Conceição e Filhos;93
+1273;Costela e Filhos;51
+1274;Freitas Abreu S.A.;79
+1275;Aparecida e Filhos;97
+1276;Mendonça e Filhos;10
+1277;Mendonça Porto - ME;33
+1278;Macedo;34
+1279;Silva S.A.;82
+1280;Cavalcante - EI;90
+1281;Câmara;5
+1282;da Costa Castro S.A.;77
+1283;Viana;92
+1284;Lima;14
+1285;Duarte S.A.;79
+1286;Cirino;59
+1287;Nogueira - EI;49
+1288;Nunes Rodrigues e Filhos;17
+1289;Ramos;45
+1290;Barros;84
+1291;Barbosa;31
+1292;Mendonça;76
+1293;Camargo Ltda.;3
+1294;da Rocha;1
+1295;Garcia;15
+1296;Mendes S.A.;57
+1297;Abreu;49
+1298;Moura da Costa - EI;53
+1299;Cunha da Paz S/A;96
+1300;Moraes Ltda.;83
+1301;Gomes;92
+1302;Viana S/A;72
+1303;Garcia Alves S/A;75
+1304;Peixoto;47
+1305;Cavalcanti;9
+1306;Vargas S/A;82
+1307;Oliveira Silva Ltda.;4
+1308;Porto;48
+1309;Araújo Ltda.;70
+1310;Barros;48
+1311;Moura;63
+1312;Montenegro S.A.;29
+1313;Alves;7
+1314;Vargas;68
+1315;Garcia Pastor Ltda.;60
+1316;Jesus;64
+1317;Fogaça;88
+1318;Rios;87
+1319;Nunes Cirino - ME;12
+1320;Leão;56
+1321;Freitas;10
+1322;Sá;30
+1323;da Cunha;3
+1324;Machado;18
+1325;Sousa;73
+1326;Leão e Filhos;57
+1327;Rocha Ltda.;43
+1328;Alves Fernandes - ME;84
+1329;Pimenta;96
+1330;Pimenta;63
+1331;da Paz Melo - ME;16
+1332;Pacheco;84
+1333;Silveira S.A.;92
+1334;Machado - EI;69
+1335;Fogaça e Filhos;24
+1336;Peixoto Ltda.;6
+1337;da Mata Ltda.;78
+1338;Silveira Aragão S.A.;89
+1339;Ferreira Ltda.;67
+1340;Silva;12
+1341;Nascimento;37
+1342;Ramos;6
+1343;Vieira;68
+1344;Sampaio da Rocha S.A.;34
+1345;Mendonça Pimenta S.A.;29
+1346;Azevedo S/A;79
+1347;Lopes - ME;44
+1348;Siqueira;93
+1349;Pereira;7
+1350;da Mota;46
+1351;Martins;21
+1352;Cavalcante Borges S/A;2
+1353;da Costa S.A.;37
+1354;da Rosa da Paz - EI;8
+1355;Sampaio;26
+1356;Pastor;32
+1357;Silveira;35
+1358;Barbosa Mendes - ME;27
+1359;Peixoto;64
+1360;Oliveira;22
+1361;Rocha Duarte e Filhos;90
+1362;Pereira;44
+1363;Correia Siqueira S/A;96
+1364;Fogaça;78
+1365;Caldeira;7
+1366;Abreu - EI;35
+1367;Andrade;49
+1368;Rodrigues;79
+1369;Rodrigues Oliveira - EI;53
+1370;Peixoto;62
+1371;Costa e Filhos;7
+1372;Cunha;8
+1373;Silveira - EI;26
+1374;Jesus Souza - EI;95
+1375;Cirino Borges - EI;42
+1376;Lopes;26
+1377;Pinto da Cunha S.A.;100
+1378;Viana;29
+1379;Almeida;38
+1380;Gonçalves;65
+1381;da Conceição Ltda.;77
+1382;Ramos;8
+1383;Borges;75
+1384;Peixoto;72
+1385;Brito;81
+1386;Souza;87
+1387;Almeida;12
+1388;da Conceição - ME;40
+1389;Andrade Martins S.A.;36
+1390;Cavalcante;85
+1391;Cassiano Novais - ME;33
+1392;Cardoso Mendes S.A.;5
+1393;Duarte;28
+1394;Costa Moraes - ME;57
+1395;Gonçalves S.A.;11
+1396;Peixoto Borges S/A;86
+1397;Martins;6
+1398;Lima S.A.;37
+1399;Siqueira;42
+1400;Pimenta - ME;12
+1401;Montenegro;43
+1402;da Cruz;46
+1403;Aragão;67
+1404;Campos Rocha S/A;31
+1405;Porto S.A.;67
+1406;Guerra;7
+1407;Silveira;88
+1408;Caldeira Nunes S/A;21
+1409;Ribeiro;81
+1410;Pereira e Filhos;69
+1411;das Neves Dias Ltda.;35
+1412;Vargas;79
+1413;Oliveira - ME;99
+1414;Ribeiro;20
+1415;Teixeira;91
+1416;Melo - EI;73
+1417;Cassiano Pacheco Ltda.;97
+1418;Pacheco S.A.;95
+1419;Leão Borges e Filhos;98
+1420;Pacheco e Filhos;43
+1421;Sá;41
+1422;Farias;89
+1423;Cassiano Macedo Ltda.;5
+1424;Melo;2
+1425;Farias S/A;57
+1426;da Cunha;68
+1427;Cunha;57
+1428;Pastor;83
+1429;Freitas;4
+1430;Ramos;9
+1431;da Luz;15
+1432;da Rocha;97
+1433;Alves Cassiano S/A;6
+1434;Gomes Siqueira S.A.;35
+1435;Pereira;14
+1436;da Costa e Filhos;78
+1437;Oliveira Ltda.;80
+1438;Leão S/A;6
+1439;Sá Montenegro - EI;41
+1440;Santos e Filhos;17
+1441;Lopes - EI;29
+1442;Nogueira;85
+1443;Fogaça;59
+1444;Cavalcanti S.A.;92
+1445;Monteiro - ME;78
+1446;Cavalcanti;21
+1447;Monteiro;16
+1448;Fonseca S.A.;36
+1449;das Neves;10
+1450;Albuquerque S.A.;58
+1451;da Rosa;27
+1452;Monteiro;90
+1453;Nogueira Ramos S/A;10
+1454;Caldeira Leão S/A;58
+1455;Alves Ltda.;41
+1456;Pastor;96
+1457;Andrade - ME;94
+1458;Guerra S.A.;48
+1459;Monteiro Rocha - ME;61
+1460;Vargas S/A;90
+1461;Moura S/A;21
+1462;Vargas Nunes - ME;43
+1463;Castro S.A.;70
+1464;Carvalho;94
+1465;Pacheco;96
+1466;Mendes Almeida e Filhos;8
+1467;Guerra;100
+1468;Silva S/A;91
+1469;Araújo Campos S/A;29
+1470;Santos;77
+1471;Vieira e Filhos;74
+1472;Cardoso Ltda.;50
+1473;Ribeiro Ltda.;58
+1474;Albuquerque;3
+1475;Freitas;79
+1476;das Neves Dias Ltda.;24
+1477;Sousa;55
+1478;da Mata;77
+1479;Mendonça;89
+1480;Caldeira Cunha e Filhos;71
+1481;Pacheco;23
+1482;da Luz;99
+1483;Moraes;67
+1484;Camargo;46
+1485;Freitas Macedo - ME;53
+1486;Leão;100
+1487;Oliveira Aparecida - EI;12
+1488;Marques;85
+1489;da Costa;31
+1490;Rezende;81
+1491;Jesus;22
+1492;Lopes Gomes - EI;98
+1493;da Mota;28
+1494;Melo;84
+1495;Ribeiro;82
+1496;Gomes;46
+1497;Freitas Carvalho - ME;51
+1498;Silva da Mata S/A;16
+1499;Siqueira;12
+1500;Farias Pacheco e Filhos;63
+1501;Macedo Nogueira S/A;46
+1502;da Mata Siqueira e Filhos;44
+1503;Casa Grande;59
+1504;Freitas Oliveira S.A.;7
+1505;Pimenta Santos S.A.;15
+1506;Gomes;48
+1507;da Mota;10
+1508;das Neves - EI;46
+1509;Melo Azevedo S/A;33
+1510;Teixeira Rios - ME;11
+1511;Rezende - ME;15
+1512;Fonseca;48
+1513;Sales S.A.;81
+1514;Ribeiro;57
+1515;da Rosa da Conceição e Filhos;45
+1516;Freitas Guerra Ltda.;56
+1517;Correia;48
+1518;da Conceição;53
+1519;Ribeiro Rezende S/A;65
+1520;Viana Santos - ME;95
+1521;da Luz - ME;37
+1522;Casa Grande;41
+1523;Machado Vieira e Filhos;51
+1524;Ramos da Paz - ME;33
+1525;Araújo;82
+1526;Sampaio;34
+1527;Albuquerque Pastor Ltda.;15
+1528;das Neves;64
+1529;Martins - EI;5
+1530;Barbosa;64
+1531;Cassiano S/A;32
+1532;Lopes;65
+1533;Barbosa;28
+1534;Viana;37
+1535;Carvalho;41
+1536;Teixeira Ramos e Filhos;90
+1537;Montenegro Ltda.;49
+1538;Aragão Pastor - ME;19
+1539;Monteiro;88
+1540;Moura Cirino - ME;15
+1541;da Conceição - ME;64
+1542;Cavalcante Montenegro - ME;33
+1543;Araújo - EI;7
+1544;Macedo;93
+1545;Sales da Mota - EI;54
+1546;Novais;77
+1547;Farias e Filhos;73
+1548;Nascimento S/A;65
+1549;Ferreira;69
+1550;Sá Marques e Filhos;16
+1551;Mendonça;60
+1552;Novaes Nunes e Filhos;34
+1553;Cavalcante - ME;97
+1554;Casa Grande;58
+1555;Dias S.A.;41
+1556;Rezende;1
+1557;Costa Mendonça S.A.;67
+1558;Carvalho;9
+1559;Pacheco da Cruz - EI;78
+1560;Ribeiro S.A.;14
+1561;Sousa Ltda.;76
+1562;Nunes e Filhos;27
+1563;Teixeira S.A.;74
+1564;Pinto S.A.;78
+1565;Fernandes S.A.;90
+1566;Aragão - ME;35
+1567;Pimenta da Mata - ME;6
+1568;Teixeira Barros S.A.;67
+1569;Pinto;82
+1570;Campos;1
+1571;Lima Moura e Filhos;89
+1572;da Mota;43
+1573;Lima Andrade - EI;60
+1574;Cassiano S.A.;5
+1575;Ramos;49
+1576;Cirino Rezende - EI;25
+1577;Cirino - ME;32
+1578;Fogaça da Cruz - ME;41
+1579;Costa - EI;58
+1580;Fernandes;10
+1581;Alves;72
+1582;da Costa Vasconcelos e Filhos;94
+1583;Cirino Lima - ME;47
+1584;Leão;75
+1585;Abreu;86
+1586;Vasconcelos;92
+1587;Costela;52
+1588;Machado S.A.;87
+1589;Azevedo Brito - ME;13
+1590;Pacheco;85
+1591;Alves S.A.;69
+1592;Barros Pacheco S/A;77
+1593;Silveira;59
+1594;Azevedo S/A;73
+1595;Lopes;12
+1596;Araújo;34
+1597;da Paz Câmara Ltda.;28
+1598;das Neves Monteiro S.A.;79
+1599;Melo - ME;87
+1600;Pimenta Martins Ltda.;59
+1601;Pacheco;62
+1602;Machado;22
+1603;da Cruz;55
+1604;da Paz;65
+1605;Andrade;53
+1606;Cassiano Ltda.;60
+1607;Barbosa - EI;68
+1608;Oliveira S.A.;52
+1609;Pimenta;99
+1610;Casa Grande Pires e Filhos;8
+1611;Sampaio S/A;41
+1612;Leão;20
+1613;Ribeiro - ME;50
+1614;da Paz Pereira S/A;53
+1615;da Paz S/A;89
+1616;Mendes e Filhos;54
+1617;Ramos Ltda.;43
+1618;Silveira;98
+1619;Pastor Andrade - ME;94
+1620;Abreu da Rosa - EI;36
+1621;Pinto;65
+1622;Rios S.A.;98
+1623;Nascimento Sampaio Ltda.;1
+1624;Gomes;21
+1625;Brito Marques - ME;19
+1626;da Cruz S.A.;79
+1627;Gomes S/A;1
+1628;da Mota Ltda.;93
+1629;Vargas e Filhos;96
+1630;Moraes;94
+1631;Correia - EI;73
+1632;Rios Caldeira - ME;36
+1633;Caldeira;30
+1634;Correia;74
+1635;Leão S/A;2
+1636;Azevedo;28
+1637;Correia Barbosa S/A;9
+1638;Cirino;31
+1639;Rezende;54
+1640;Moreira;53
+1641;Porto;12
+1642;Cavalcante S.A.;18
+1643;Camargo e Filhos;76
+1644;Nunes;74
+1645;Peixoto Campos S/A;97
+1646;Viana;47
+1647;Barbosa;34
+1648;Fonseca Costela - EI;42
+1649;Rocha Guerra Ltda.;75
+1650;Guerra S/A;45
+1651;Garcia;47
+1652;Melo Guerra - EI;4
+1653;Santos;91
+1654;Fogaça;88
+1655;Azevedo - ME;43
+1656;Fonseca;39
+1657;Pires;82
+1658;Sousa;37
+1659;Lima;5
+1660;da Conceição;22
+1661;Sampaio e Filhos;87
+1662;Fonseca;30
+1663;da Rocha S/A;62
+1664;Sales;57
+1665;Nunes Gomes S/A;1
+1666;Castro;92
+1667;Nogueira e Filhos;89
+1668;Gonçalves Moreira S.A.;33
+1669;Fogaça;19
+1670;Aragão;19
+1671;Leão S.A.;22
+1672;Gonçalves;25
+1673;Fogaça;62
+1674;Alves e Filhos;17
+1675;Martins Borges Ltda.;20
+1676;Pereira;79
+1677;Fonseca;77
+1678;Casa Grande;69
+1679;Camargo Ltda.;97
+1680;Vieira Siqueira - EI;73
+1681;Pacheco S.A.;38
+1682;Ramos S.A.;80
+1683;Caldeira Araújo e Filhos;19
+1684;Leão;16
+1685;das Neves;59
+1686;Araújo Camargo S/A;96
+1687;Ribeiro;11
+1688;Cavalcanti Ltda.;10
+1689;da Cruz - EI;12
+1690;Gonçalves;1
+1691;Gonçalves Rocha S.A.;47
+1692;Albuquerque - EI;62
+1693;Novais;43
+1694;Leão Caldeira S.A.;97
+1695;Vieira;16
+1696;Barbosa;69
+1697;Vasconcelos;62
+1698;Pires da Mota - ME;94
+1699;Dias;15
+1700;da Rocha Ferreira S.A.;68
+1701;Silva;98
+1702;Dias;48
+1703;Câmara;57
+1704;da Rosa;3
+1705;da Cunha;27
+1706;Gonçalves - EI;22
+1707;Moraes;44
+1708;Duarte S.A.;4
+1709;Caldeira Lopes S/A;17
+1710;Novaes;24
+1711;Sousa Freitas Ltda.;31
+1712;Mendes - EI;10
+1713;Jesus;10
+1714;Viana Machado e Filhos;94
+1715;Ribeiro;85
+1716;Pacheco;85
+1717;Campos Porto - EI;51
+1718;Teixeira;25
+1719;Ferreira Nunes - EI;79
+1720;da Mata;35
+1721;da Cruz;36
+1722;Alves;40
+1723;Fernandes S/A;42
+1724;Rocha Casa Grande S.A.;81
+1725;Pereira;99
+1726;Azevedo Caldeira Ltda.;69
+1727;da Cunha Castro - EI;13
+1728;Machado;92
+1729;Fernandes - ME;1
+1730;Moraes Vieira S/A;12
+1731;Cavalcante;60
+1732;Leão;29
+1733;Rocha Moraes e Filhos;2
+1734;Fonseca;67
+1735;Vasconcelos;51
+1736;Peixoto - ME;6
+1737;Cassiano;64
+1738;Nunes;73
+1739;Mendonça;44
+1740;Guerra da Conceição - ME;44
+1741;Novais;98
+1742;Souza Rios Ltda.;53
+1743;da Conceição;41
+1744;Porto;58
+1745;Brito;23
+1746;Cirino - EI;38
+1747;Rocha;91
+1748;Fogaça;44
+1749;Câmara;23
+1750;Albuquerque;71
+1751;Sá Barros e Filhos;10
+1752;Alves;95
+1753;Araújo;30
+1754;Garcia;61
+1755;Moura;84
+1756;Montenegro S/A;21
+1757;Guerra;46
+1758;Aragão;100
+1759;Costela;12
+1760;da Mata Aragão e Filhos;49
+1761;Sousa Alves - EI;92
+1762;Ramos Duarte e Filhos;71
+1763;Fonseca da Mata Ltda.;41
+1764;Peixoto;17
+1765;Ferreira Dias - ME;56
+1766;da Costa;50
+1767;Lima;35
+1768;da Rocha Ltda.;98
+1769;Pires S.A.;49
+1770;Dias;26
+1771;Gonçalves;46
+1772;Abreu - ME;27
+1773;Pacheco Cunha S.A.;95
+1774;Fogaça Camargo Ltda.;56
+1775;Carvalho;7
+1776;Sales Pimenta - ME;85
+1777;Mendes e Filhos;3
+1778;da Rosa;22
+1779;Freitas S.A.;55
+1780;Macedo Cardoso S/A;38
+1781;Camargo;20
+1782;Duarte S/A;51
+1783;das Neves;86
+1784;Rodrigues;40
+1785;Rocha S.A.;49
+1786;Cirino Pinto - EI;46
+1787;Nascimento;20
+1788;Vargas;82
+1789;Rocha;32
+1790;Pimenta Ltda.;72
+1791;da Cunha;8
+1792;Pereira - ME;81
+1793;Sá;50
+1794;Fernandes;17
+1795;Cirino;10
+1796;Albuquerque - ME;93
+1797;Vieira;28
+1798;Albuquerque;51
+1799;Casa Grande S/A;19
+1800;da Mota Carvalho - ME;56
+1801;Sousa;9
+1802;Garcia;67
+1803;Cavalcante;70
+1804;Souza;9
+1805;Novaes;57
+1806;Castro;91
+1807;Almeida;50
+1808;Rezende;21
+1809;Rocha Martins - EI;8
+1810;Carvalho;30
+1811;Rios;41
+1812;Almeida;79
+1813;Fonseca e Filhos;70
+1814;Porto S/A;83
+1815;Nunes da Conceição - EI;86
+1816;Garcia;92
+1817;Porto;41
+1818;Souza Santos - EI;36
+1819;Alves S/A;99
+1820;Ramos;67
+1821;Teixeira;9
+1822;Novais Albuquerque e Filhos;16
+1823;Nogueira;46
+1824;Brito Peixoto e Filhos;38
+1825;Câmara;80
+1826;Freitas;8
+1827;Castro S/A;42
+1828;Gonçalves;75
+1829;Siqueira;20
+1830;Sampaio;68
+1831;Azevedo;87
+1832;Leão;29
+1833;Novaes Borges S/A;66
+1834;Cunha e Filhos;39
+1835;da Paz;82
+1836;Campos;20
+1837;Freitas;51
+1838;Silva Andrade - ME;90
+1839;Santos;78
+1840;Brito;54
+1841;Fernandes e Filhos;84
+1842;Viana;70
+1843;Aragão;6
+1844;Albuquerque - EI;46
+1845;da Rosa;90
+1846;Vargas das Neves S/A;31
+1847;Araújo;77
+1848;da Rosa S/A;89
+1849;Ribeiro;14
+1850;Sales;39
+1851;Mendonça Duarte - ME;70
+1852;Teixeira;95
+1853;Moreira e Filhos;31
+1854;Câmara;18
+1855;da Rocha;34
+1856;Moura Ltda.;87
+1857;Sá Leão - ME;6
+1858;da Mata;58
+1859;Sá Moura e Filhos;1
+1860;Jesus S/A;9
+1861;Lima;88
+1862;Pinto;50
+1863;Moura;63
+1864;Novaes S/A;39
+1865;Caldeira da Cunha S.A.;49
+1866;Barbosa;15
+1867;Correia;11
+1868;da Paz Jesus - ME;82
+1869;Dias Martins e Filhos;27
+1870;Silveira Casa Grande e Filhos;56
+1871;Abreu;19
+1872;Mendes S.A.;40
+1873;Duarte;43
+1874;Vargas e Filhos;30
+1875;Ramos Ribeiro S/A;52
+1876;Aparecida Ltda.;63
+1877;Fogaça S.A.;100
+1878;Moraes;29
+1879;da Mota - EI;76
+1880;Novaes;15
+1881;Cardoso Vargas Ltda.;5
+1882;Silveira Barros Ltda.;45
+1883;Casa Grande;42
+1884;Brito;45
+1885;Novais e Filhos;59
+1886;Câmara;91
+1887;Lopes Casa Grande - ME;51
+1888;Rezende;30
+1889;Gomes;83
+1890;Alves S.A.;9
+1891;Montenegro;34
+1892;Camargo Almeida S.A.;32
+1893;Cardoso S/A;63
+1894;Novaes Jesus - ME;76
+1895;Moraes Freitas - EI;3
+1896;Vasconcelos Rocha - EI;51
+1897;Pastor - ME;9
+1898;Sá;48
+1899;Ribeiro;60
+1900;Peixoto;30
+1901;Peixoto;84
+1902;da Rocha;43
+1903;Ribeiro S/A;9
+1904;Mendes;5
+1905;Castro;25
+1906;Rodrigues - ME;17
+1907;da Conceição Santos - EI;59
+1908;Freitas Leão S.A.;5
+1909;Vargas S/A;80
+1910;Campos;35
+1911;Novaes;13
+1912;Ferreira S/A;18
+1913;Costela;34
+1914;da Luz;96
+1915;Casa Grande;41
+1916;Pastor Machado - EI;29
+1917;Casa Grande;36
+1918;Farias;18
+1919;Moura - ME;79
+1920;Pastor;81
+1921;Pastor Gomes Ltda.;100
+1922;da Cunha Ltda.;96
+1923;Câmara;90
+1924;Rocha Sousa S.A.;2
+1925;Mendonça;7
+1926;Ferreira Barros e Filhos;13
+1927;Barros S/A;26
+1928;Garcia Moraes S/A;94
+1929;Farias S/A;92
+1930;Melo - EI;12
+1931;Campos - EI;65
+1932;Aragão S.A.;34
+1933;Leão S/A;10
+1934;Dias da Costa - ME;73
+1935;Correia Camargo S/A;75
+1936;Gonçalves;34
+1937;Viana Ferreira - ME;80
+1938;Câmara;50
+1939;Camargo e Filhos;31
+1940;Sousa;82
+1941;Lopes Ltda.;81
+1942;Martins;68
+1943;Costela e Filhos;50
+1944;Lima;18
+1945;Azevedo Castro - EI;37
+1946;Castro;45
+1947;Guerra;83
+1948;Casa Grande;46
+1949;Guerra;16
+1950;Dias;36
+1951;Gonçalves Abreu - ME;58
+1952;da Conceição - ME;71
+1953;Carvalho Farias - EI;42
+1954;Martins;31
+1955;Fogaça;57
+1956;Fogaça;19
+1957;Pereira - EI;60
+1958;Carvalho S.A.;93
+1959;da Mota;85
+1960;da Conceição Ltda.;66
+1961;Pereira Casa Grande - ME;79
+1962;Costela;99
+1963;Silveira;1
+1964;Cavalcante e Filhos;50
+1965;Montenegro;99
+1966;Nascimento;34
+1967;Macedo;98
+1968;Peixoto;52
+1969;Pimenta;79
+1970;da Conceição;96
+1971;Barbosa Costela Ltda.;70
+1972;Castro Nogueira Ltda.;51
+1973;Oliveira Sales S.A.;73
+1974;Cavalcante Almeida - EI;37
+1975;Andrade e Filhos;32
+1976;Costela;97
+1977;da Rosa;18
+1978;Nascimento S/A;28
+1979;Albuquerque Marques - EI;59
+1980;Farias - ME;62
+1981;Rezende Ltda.;52
+1982;Novais;61
+1983;Viana Rodrigues e Filhos;89
+1984;Souza Fogaça Ltda.;54
+1985;Cavalcanti;90
+1986;Cirino;21
+1987;Cardoso;69
+1988;Pereira;95
+1989;da Rocha e Filhos;80
+1990;Machado;52
+1991;Pires;54
+1992;da Costa Martins e Filhos;45
+1993;Rezende;72
+1994;Vasconcelos - ME;64
+1995;Pereira S/A;89
+1996;Camargo da Costa - ME;42
+1997;Campos;63
+1998;da Luz S.A.;69
+1999;Novaes e Filhos;10
+2000;Leão;51
