@@ -44,7 +44,7 @@ from ucimlrepo import fetch_ucirepo
 concrete = fetch_ucirepo(id=165)
 X = concrete.data.features
 y = concrete.data.targets
-
+```
 2️⃣ Análise Exploratória (EDA)
 
 Estatísticas descritivas
