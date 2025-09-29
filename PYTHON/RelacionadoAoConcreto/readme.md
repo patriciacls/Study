@@ -66,10 +66,6 @@ Regressão Linear
 
 Random Forest
 
-XGBoost (opcional)
-
-Rede Neural (opcional)
-
 ## Avaliação
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
@@ -170,10 +166,6 @@ Models tested:
 Linear Regression
 
 Random Forest
-
-XGBoost (optional)
-
-Neural Network (optional)
 
 Evaluation
 Python
